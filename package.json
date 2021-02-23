@@ -1,0 +1,22 @@
+{
+  "name": "cross-ailumette",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ailumette.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samilouhidi/cross-ailumette.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samilouhidi/cross-ailumette/issues"
+  },
+  "homepage": "https://github.com/Samilouhidi/cross-ailumette#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
